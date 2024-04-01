@@ -1,0 +1,199 @@
+.bg1
+{
+    background-image: url(./figmaPics/BG@2x.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navBar
+{
+    background-color: #F9F9F966;
+
+}
+.navbtn:hover
+{
+    background-color: rgb(80, 80, 239);
+    color: white;
+}
+.navBtns:hover
+{
+    color: rgb(80, 80, 239) !important;
+    /* border-top: solid rgb(80, 80, 239) !important; */
+}
+.sec1Btn
+{
+    background-color: rgb(80, 80, 239);
+    color: white;
+}
+.sec2Img
+{
+    width: 150px;
+    height: 150px;
+}
+.sec2Card1
+{
+    background-color:  #F7FAFD;
+}
+.sec2Card2
+{
+    background-color: #6246E4;
+
+}
+.sec3C1
+{
+    width: 30px;
+    height: 30px;
+    background-color: #F4DDA0;
+    color: white;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec3C2
+{
+    width: 30px;
+    height: 30px;
+    background-color: #BCD5FC;
+    color: white;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec3C3
+{
+    width: 30px;
+    height: 30px;
+    background-color: #FAC2CF;
+    color: white;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec4CardBdl1
+{
+    left: -50px;
+}
+.sec4CardBdl2
+{
+    top: 50px;
+    left: 0px;
+}
+.sec4Card1
+{
+    background-color: #FAFAFA;
+    border-radius: 30px;
+}
+.sec4Card2
+{
+    border-radius: 30px;
+}
+.sec4Img1
+{
+    width: 49px;
+    height: 49px;
+    border-radius: 100%;
+}
+.sec4Badge1
+{
+    width: 37px;
+    height: 37px;
+    border-radius: 100%;
+    background-color: #F8F4F4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec4LtRt
+{
+    width: 48px;
+    height: 47px;
+    border-radius: 100%;
+    background-color: #EDEDED;
+}
+.sec5
+{
+    background-color: #6246E4;
+    border-radius: 15px;
+
+}
+.sec5Inp
+{
+    background: #FFFFFF37 !important;
+    border-radius: 15px !important;
+}
+.sec5Inp::placeholder
+{
+    color: white !important;
+}
+.sec5Btn
+{
+    color: #6246E4;
+    border-radius: 10px;
+}
+.sec5Img
+{
+    top: -145px;
+    left: 140px;
+    scale: 1.2;
+}
+.sec6Main
+{
+    background-image: url(./figmaPics/Shape.png);
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+.sec6Form
+{
+    background-color: white;
+    box-shadow: 15px 20px 80px 0px #00000017;
+    top: -50px;
+}
+.sec6Inp
+{
+    border-bottom: groove !important;
+    border-radius: 0 !important;
+}
+.sec6Btn
+{
+    background-color: #6246E4;
+    color: white;
+    border-radius: 10px;
+}
+.footerBar
+{
+    background-color: #FAFAFA;
+    height: 400px;
+    top: -107px;
+    padding-top: 220px;
+}
+.footerImg1
+{
+    width: 30px; 
+    height: 30px;
+    background-color: #E9E9E9;
+    border-radius: 100%;
+}
+.footerImg2
+{
+    width: 30px; 
+    height: 30px;
+    background-color: #E9E9E9;
+    border-radius: 100%;
+}
+.footerImg3
+{
+    width: 30px; 
+    height: 30px;
+    background-color: #E9E9E9;
+    border-radius: 100%;
+}
+.footerImg4
+{
+    width: 30px; 
+    height: 30px;
+    background: #6246E4;
+    border-radius: 100%;
+}

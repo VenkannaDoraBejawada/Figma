@@ -1,0 +1,76 @@
+@media(max-width:1294px)
+{
+    .sec5Img
+{
+    right: 80px;
+}
+}
+
+@media(max-width:757px)
+{
+    .sec1Ai
+    {
+        margin: 0 !important;
+        scale: 0.8;
+    }
+    .sec1ImgSec
+    {
+        scale: 0.5;
+        left: -80px;
+        top: -80px;
+    }
+    .sec2Card1
+    {
+        
+    }
+    .sec4CardBdl1
+    {
+        scale: 1.2;
+        margin-left: 10px;
+        margin-bottom: 50px;
+    }
+    .sec4CardBdl2
+    {
+        /* left: 5px !important; */
+        scale: 0.9;
+        left: -20px !important;
+        
+    }
+    .sec4Cards
+    {
+        padding: 0;
+    }
+    .sec5
+    {
+        width: 100% !important;
+    }
+    .sec5Img
+    {
+        position: static !important;
+    }
+    .sec6
+    {
+        width: 100%  !important;
+        text-align: center !important;
+    }
+    .sec6Form
+    {
+        position: static !important;
+        z-index: 0 !important;
+        margin: 0 !important;
+    }
+    .footerBar
+    {
+        position: static !important;
+        padding: 0 !important;
+    }
+    .author
+    {
+        flex-direction: column !important;
+        text-align: center;
+    }
+    .footerImg
+    {
+        display: none !important;
+    }
+}
